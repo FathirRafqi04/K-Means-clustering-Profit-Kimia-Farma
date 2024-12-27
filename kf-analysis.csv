@@ -1,0 +1,466 @@
+transaction_id,date,branch_id,branch_name,kota,provinsi,rating_transaction,customer_name,product_id,product_name,price,discount_percentage,gross_profit_percentage,nett_sales,nett_profit,rating_branch
+TRX3887597,2022,55000,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,3.5,Erin Taylor,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.0
+TRX2735782,2022,81487,Kimia Farma - Apotek,Lhokseumawe,Aceh,4.6,Justin Fuentes,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.8
+TRX1878665,2022,48130,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.0,Daniel Reid,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.7
+TRX7774440,2022,75181,Kimia Farma - Apotek,Palembang,Sumatera Selatan,4.0,Kenneth White,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.4
+TRX7853542,2022,40120,Kimia Farma - Apotek,Jayapura,Papua,4.1,Richard Miller,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,3.9
+TRX3647414,2022,55000,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,4.2,Danielle Ward,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.0
+TRX8808913,2022,37191,Kimia Farma - Apotek,Bima,Nusa Tenggara Barat,3.2,Stephen Kline,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,3.9
+TRX6546900,2022,82095,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,3.1,Jesus Ramos,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.4
+TRX2534048,2022,65560,Kimia Farma - Apotek,Balikpapan,Kalimantan Timur,4.7,Donald Martinez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.7
+TRX1749373,2022,80673,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,3.4,Paula Patel,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.6
+TRX5200917,2022,60036,Kimia Farma - Apotek,Batam,Kepulauan Riau,4.3,Robert Stewart,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.9
+TRX1013662,2022,76351,Kimia Farma - Apotek,Palu,Sulawesi Tengah,4.8,Susan Hunt,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.4
+TRX6347654,2022,18983,Kimia Farma - Apotek,Solok,Sumatera Barat,3.7,Joel Chavez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.8
+TRX4799546,2022,21410,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,4.8,Kathleen Woods,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.2
+TRX6476361,2022,24913,Kimia Farma - Apotek,Bekasi,Jawa Barat,4.6,Reginald Cox,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.2
+TRX8095236,2022,16040,Kimia Farma - Apotek,Ciamis,Jawa Barat,3.7,Jonathan Thomas,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.2
+TRX7446131,2022,60888,Kimia Farma - Apotek,Bekasi,Jawa Barat,3.4,Neil Cox,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.1
+TRX6444904,2022,33488,Kimia Farma - Apotek,Denpasar,Bali,3.1,Molly Carlson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.8
+TRX7573096,2022,50821,Kimia Farma - Apotek,Deli Serdang,Sumatera Utara,3.6,Jennifer Dixon,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.5
+TRX5076409,2022,31305,Kimia Farma - Apotek,Sibolga,Sumatera Utara,3.9,Audrey Brown,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.2
+TRX3351772,2022,87281,Kimia Farma - Apotek,Semarang,Jawa Tengah,3.2,Bryan Morris,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.4
+TRX1175521,2022,59607,Kimia Farma - Apotek,Magelang,Jawa Tengah,4.1,Javier Lewis,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.3
+TRX2043441,2022,86446,Kimia Farma - Apotek,Bitung,Sulawesi Utara,3.8,Mr. Daniel Mills,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.1
+TRX8998385,2022,14469,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,4.4,Barry Hernandez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,5.0
+TRX6837691,2022,86446,Kimia Farma - Apotek,Bitung,Sulawesi Utara,4.4,Bobby Jenkins,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.1
+TRX8408357,2022,25951,Kimia Farma - Apotek,Pekanbaru,Riau,3.4,Thomas Velasquez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.5
+TRX8006449,2022,58103,Kimia Farma - Apotek,Karawang,Jawa Barat,4.2,Samantha Hanson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.7
+TRX4497449,2022,74030,Kimia Farma - Apotek,Bitung,Sulawesi Utara,4.7,Paul Hall,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.5
+TRX1835105,2022,82832,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.0,Sean Patel,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.7
+TRX5700726,2022,63942,Kimia Farma - Apotek,Bandung,Jawa Barat,3.2,Kelsey Fox,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,5.0
+TRX5309371,2022,52192,Kimia Farma - Apotek,Karawang,Jawa Barat,4.7,Brandon Barber,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.2
+TRX3807157,2022,82240,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.0,Andrew Simon,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.2
+TRX2737565,2022,26671,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,3.7,Chase Moore,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.1
+TRX3795611,2022,59607,Kimia Farma - Apotek,Magelang,Jawa Tengah,4.3,Bryan Dickerson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.3
+TRX1972862,2022,89154,Kimia Farma - Apotek,Palembang,Sumatera Selatan,3.4,Marissa Rhodes,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.5
+TRX1253857,2022,16339,Kimia Farma - Apotek,Subang,Jawa Barat,3.5,Diana Rivera,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.7
+TRX6890081,2022,47503,Kimia Farma - Apotek,Denpasar,Bali,3.4,Corey Campos,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.1
+TRX6519084,2022,82894,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,4.2,Caleb Martin DDS,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.5
+TRX2999569,2022,67859,Kimia Farma - Apotek,Karawang,Jawa Barat,3.4,Jeffrey Cameron,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.5
+TRX6871391,2022,85280,Kimia Farma - Apotek,Banda Aceh,Aceh,3.3,John Davis,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.0
+TRX7199681,2022,28401,Kimia Farma - Apotek,Magelang,Jawa Tengah,3.9,Megan Coleman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,3.9
+TRX3939512,2022,90734,Kimia Farma - Apotek,Sukabumi,Jawa Barat,3.1,Michael Leon,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.6
+TRX2547704,2022,41085,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,4.5,Amanda Guerrero,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,5.0
+TRX7390898,2022,46963,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.9,Laura Bowman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.3
+TRX2763980,2022,54503,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,4.2,Nicholas Mason,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.9
+TRX7687611,2022,63942,Kimia Farma - Apotek,Bandung,Jawa Barat,4.0,Gregory Newman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,5.0
+TRX3869280,2022,64238,Kimia Farma - Apotek,Jakarta,DKI Jakarta,4.0,Leslie Dickerson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.0
+TRX6389993,2022,44502,Kimia Farma - Apotek,Manado,Sulawesi Utara,3.9,Debbie Wagner,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.1
+TRX3306143,2022,45072,Kimia Farma - Apotek,Surabaya,Jawa Timur,4.5,Joseph Clark,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.7
+TRX6666285,2022,48667,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.4,Joseph Savage,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.2
+TRX4096078,2022,66717,Kimia Farma - Apotek,Subang,Jawa Barat,3.5,Paul Stewart,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.2
+TRX2934060,2022,61007,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.0,Courtney Mcgee,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.0
+TRX6903569,2022,96558,Kimia Farma - Apotek,Denpasar,Bali,4.5,Jill Norton,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.7
+TRX3433578,2022,15338,Kimia Farma - Apotek,Kotamobagu,Sulawesi Utara,4.3,Crystal Adams,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,3.9
+TRX6488163,2022,24277,Kimia Farma - Apotek,Lhokseumawe,Aceh,4.8,Kevin Mcmahon,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.2
+TRX4432348,2022,82636,Kimia Farma - Apotek,Palu,Sulawesi Tengah,3.2,Jenny Snow,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.7
+TRX8435333,2022,96742,Kimia Farma - Apotek,Garut,Jawa Barat,3.5,Brandon Cox,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.4
+TRX8614828,2022,81651,Kimia Farma - Apotek,Bitung,Sulawesi Utara,3.6,Angela Powell,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.2
+TRX8477220,2022,52060,Kimia Farma - Apotek,Sibolga,Sumatera Utara,3.4,Elizabeth Reese,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.2
+TRX2988637,2022,58873,Kimia Farma - Apotek,Cikampek,Jawa Barat,3.4,Jerry Clark,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.8
+TRX8926283,2022,90726,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.7,Kyle Buck,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.8
+TRX9497397,2022,28844,Kimia Farma - Apotek,Indramayu,Jawa Barat,4.3,Jeremy Fischer,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.1
+TRX1454178,2022,50270,Kimia Farma - Apotek,Madiun,Jawa Timur,4.1,Angel Martin,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.5
+TRX3667066,2022,79972,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,4.6,Andrew Jones,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.7
+TRX6930545,2022,75553,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.7,Adam Glass,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.0,0.1,6400.0,640.0,4.3
+TRX7830200,2022,94905,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,4.9,John Willis,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.5
+TRX2652786,2022,69548,Kimia Farma - Apotek,Tangerang,Banten,4.7,Christina Barker DDS,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.0
+TRX3002992,2022,45962,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.0,Brooke Davis,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.4
+TRX3001096,2022,28460,Kimia Farma - Apotek,Jambi,Jambi,4.6,Katie Howard,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.2
+TRX4515883,2022,94051,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.4,Stephanie Townsend,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.9
+TRX6378823,2022,59955,Kimia Farma - Apotek,Madiun,Jawa Timur,4.9,Alexander Hunter,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.7
+TRX4990167,2022,90206,Kimia Farma - Apotek,Kotamobagu,Sulawesi Utara,4.2,Julie Scott,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.7
+TRX7172911,2022,85287,Kimia Farma - Apotek,Sorong,Papua Barat,3.3,Mitchell Browning,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.9
+TRX9679751,2022,31365,Kimia Farma - Apotek,Cirebon,Jawa Barat,4.3,Yvonne Norman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.4
+TRX8607121,2022,13307,Kimia Farma - Apotek,Jambi,Jambi,4.1,Daniel Bonilla,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.7
+TRX2593944,2022,14799,Kimia Farma - Apotek,Ambon,Maluku,4.1,Rebekah Hughes,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.6
+TRX4336624,2022,59549,Kimia Farma - Apotek,Purwakarta,Jawa Barat,3.5,Regina Woods,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.2
+TRX7013379,2022,87583,Kimia Farma - Apotek,Surabaya,Jawa Timur,3.4,Samuel Rice,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.6
+TRX8777526,2022,33406,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,3.6,Zachary Friedman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.7
+TRX2637229,2022,72440,Kimia Farma - Apotek,Banda Aceh,Aceh,3.3,Monica Berry,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.3
+TRX4228170,2022,20073,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,4.0,Emily Acosta,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.0
+TRX7955391,2022,92261,Kimia Farma - Apotek,Subang,Jawa Barat,4.4,Jessica Lara,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.6
+TRX8530726,2022,82564,Kimia Farma - Apotek,Palembang,Sumatera Selatan,4.2,Andrew Franklin,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.2
+TRX5110840,2022,93702,Kimia Farma - Apotek,Jayapura,Papua,4.5,Patrick Mullins,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.3
+TRX9639724,2022,82336,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.9,Belinda Barnett,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.2
+TRX4078047,2022,29203,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.3,Lori Hunt,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.3
+TRX7205310,2022,60036,Kimia Farma - Apotek,Batam,Kepulauan Riau,4.9,Rhonda Escobar,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.9
+TRX1057328,2022,94162,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,4.7,Noah Pacheco,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,5.0
+TRX1268863,2022,52020,Kimia Farma - Apotek,Banda Aceh,Aceh,3.8,Matthew Williams,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.4
+TRX9411141,2022,41131,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,3.7,Patricia Whitehead,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.8
+TRX9689394,2022,31737,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,3.0,Jessica Lawrence,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.2
+TRX5062263,2022,33069,Kimia Farma - Apotek,Garut,Jawa Barat,4.1,Scott Johnston,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,3.9
+TRX6053310,2022,93257,Kimia Farma - Apotek,Kotamobagu,Sulawesi Utara,4.4,Julian Terrell,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.6
+TRX1687470,2022,68034,Kimia Farma - Apotek,Ambon,Maluku,3.6,Devon Mitchell,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.1
+TRX8694771,2022,20102,Kimia Farma - Apotek,Pekanbaru,Riau,3.9,Sara Mccann,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.3
+TRX1724924,2022,49726,Kimia Farma - Apotek,Jayapura,Papua,3.7,Ruth Adkins,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.9
+TRX4156958,2022,58928,Kimia Farma - Apotek,Solok,Sumatera Barat,3.7,Loretta Rose,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.0
+TRX4059367,2022,55847,Kimia Farma - Apotek,Subang,Jawa Barat,4.4,Diana Dawson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.3
+TRX7239652,2022,96487,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.7,Heather Greene,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.8
+TRX9605209,2022,92755,Kimia Farma - Apotek,Bekasi,Jawa Barat,3.1,Timothy Lopez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,5.0
+TRX4642438,2022,98811,Kimia Farma - Apotek,Bontang,Kalimantan Timur,3.9,Tammy Mayer,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.9
+TRX5810486,2022,88832,Kimia Farma - Apotek,Jakarta,DKI Jakarta,4.2,Keith Chavez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.2
+TRX6181312,2022,35746,Kimia Farma - Apotek,Surabaya,Jawa Timur,4.3,Terrence Hughes,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.5
+TRX7062079,2022,76154,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.3,Jennifer Phillips,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.6
+TRX5775807,2022,66421,Kimia Farma - Apotek,Balikpapan,Kalimantan Timur,3.1,Scott Walters,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,5.0
+TRX2823989,2022,46902,Kimia Farma - Apotek,Cirebon,Jawa Barat,3.3,Jonathan Stewart,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.0
+TRX1001968,2022,40832,Kimia Farma - Apotek,Bekasi,Jawa Barat,3.6,Rebecca Blackburn,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,5.0
+TRX2291637,2022,94165,Kimia Farma - Apotek,Karawang,Jawa Barat,3.4,Timothy Hernandez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.6
+TRX9016678,2022,80673,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,3.4,Sarah Rogers,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.6
+TRX6786152,2022,48667,Kimia Farma - Apotek,Cikampek,Jawa Barat,3.7,Courtney Cruz,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.2
+TRX9599688,2022,73710,Kimia Farma - Apotek,Probolinggo,Jawa Timur,4.9,Michael Cardenas,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.0
+TRX6886786,2022,60036,Kimia Farma - Apotek,Batam,Kepulauan Riau,3.6,Dustin Marshall,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.9
+TRX5959136,2022,61880,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.7,Shannon Santos,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.0
+TRX2514635,2022,13089,Kimia Farma - Apotek,Subang,Jawa Barat,3.3,Laura Hill,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.1
+TRX5029741,2022,13775,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,4.1,Julia English,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,5.0
+TRX1896138,2022,61916,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,4.5,Jose Vasquez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.1
+TRX6884134,2022,20598,Kimia Farma - Apotek,Bitung,Sulawesi Utara,4.6,Brittany Martinez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.4
+TRX4353030,2022,12991,Kimia Farma - Apotek,Garut,Jawa Barat,4.7,Sherry Blackburn,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,3.9
+TRX1534752,2022,79972,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,3.5,Beth Jackson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.7
+TRX4544406,2022,49520,Kimia Farma - Apotek,Subang,Jawa Barat,4.0,Kyle Guerrero,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.4
+TRX2181192,2022,80176,Kimia Farma - Apotek,Dumai,Riau,4.8,Kaylee Shah,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.7
+TRX9461050,2022,65947,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,3.7,Jimmy Saunders,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,5.0
+TRX6228641,2022,84922,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,3.5,Reginald Carney,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.1
+TRX5568985,2022,35572,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.8,Michael Johnson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.6
+TRX6758931,2022,98443,Kimia Farma - Apotek,Banda Aceh,Aceh,4.8,Katrina Rowe MD,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.5
+TRX2087792,2022,82240,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,3.7,Katelyn Sullivan,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.2
+TRX6406051,2022,47344,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,4.4,Emily Smith,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.9
+TRX2565747,2022,75181,Kimia Farma - Apotek,Palembang,Sumatera Selatan,3.8,Erika Nelson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.4
+TRX5925408,2022,56478,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.9,Anna Foster,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.0
+TRX4168931,2022,31747,Kimia Farma - Apotek,Langsa,Aceh,3.6,Jesus Crawford,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.5
+TRX5332083,2022,40552,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,3.4,Jacqueline Chung,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.6
+TRX1215726,2022,57196,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,3.4,Andrew Parker,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.8
+TRX7877024,2022,60964,Kimia Farma - Apotek,Pariaman,Sumatera Barat,3.9,William Porter,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.3
+TRX9023533,2022,11400,Kimia Farma - Apotek,Ambon,Maluku,3.6,Philip Villarreal,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.1
+TRX3523391,2022,34030,Kimia Farma - Apotek,Solok,Sumatera Barat,5.0,Joseph Sawyer,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.2
+TRX4538357,2022,97507,Kimia Farma - Apotek,Pekanbaru,Riau,3.8,Robert Rodriguez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.1
+TRX9378482,2022,25432,Kimia Farma - Apotek,Cirebon,Jawa Barat,4.4,Jennifer Beck,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.2
+TRX1700074,2022,23471,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,4.8,Christopher Delgado,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.3
+TRX9620435,2022,41012,Kimia Farma - Apotek,Payakumbuh,Sumatera Barat,4.0,Stephen Peters,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.2
+TRX3478406,2022,45072,Kimia Farma - Apotek,Surabaya,Jawa Timur,4.5,Anthony Henderson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.7
+TRX6530501,2022,47901,Kimia Farma - Apotek,Cianjur,Jawa Barat,4.3,Mr. Ethan Guerrero,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.1
+TRX4607059,2022,23647,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.2,Chris Mendoza,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.6
+TRX1829136,2022,35746,Kimia Farma - Apotek,Surabaya,Jawa Timur,4.1,Kathleen Smith,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.5
+TRX5268768,2022,65902,Kimia Farma - Apotek,Balikpapan,Kalimantan Timur,4.0,Devin Burke,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.2
+TRX5455501,2022,96487,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.3,Sean Hunter,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.8
+TRX7846288,2022,56576,Kimia Farma - Apotek,Padang,Sumatera Barat,4.6,Amy Hayden,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.2
+TRX8869059,2022,35836,Kimia Farma - Apotek,Malang,Jawa Timur,4.2,Matthew Sanchez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.5
+TRX3158174,2022,42814,Kimia Farma - Apotek,Gorontalo,Gorontalo,3.9,Colleen Diaz,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.5
+TRX7886545,2022,89154,Kimia Farma - Apotek,Palembang,Sumatera Selatan,3.3,Evan Gomez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.5
+TRX4875257,2022,61835,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,3.3,John Wright,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.9
+TRX6941741,2022,85716,Kimia Farma - Apotek,Malang,Jawa Timur,3.2,Nicole Gonzalez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,5.0
+TRX7143092,2022,39160,Kimia Farma - Apotek,Garut,Jawa Barat,3.7,Devin Francis,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.5
+TRX7120431,2022,18342,Kimia Farma - Apotek,Garut,Jawa Barat,4.4,Michael Gibson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.6
+TRX7719995,2022,20505,Kimia Farma - Apotek,Cilacap,Jawa Tengah,4.2,Justin Perkins,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.5
+TRX5908537,2022,47547,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,4.8,Kristy Russell,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.5
+TRX9518752,2022,82202,Kimia Farma - Apotek,Jambi,Jambi,4.6,Jeremy Wright,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.1
+TRX4811027,2022,16158,Kimia Farma - Apotek,Subang,Jawa Barat,3.2,Deanna Manning,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,5.0
+TRX3704391,2022,39523,Kimia Farma - Apotek,Garut,Jawa Barat,4.9,Emily Sparks,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.3
+TRX3832116,2022,76170,Kimia Farma - Apotek,Tangerang,Banten,3.6,Gregory Williamson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.3
+TRX7817544,2022,80802,Kimia Farma - Apotek,Sukabumi,Jawa Barat,3.4,Brett Williams,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.9
+TRX8275313,2022,66113,Kimia Farma - Apotek,Bekasi,Jawa Barat,3.3,Christopher Owens,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.0
+TRX3592921,2022,69471,Kimia Farma - Apotek,Probolinggo,Jawa Timur,3.2,Michelle Hicks,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.8
+TRX3049805,2022,20382,Kimia Farma - Apotek,Batam,Kepulauan Riau,4.0,Donald Greer,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.2
+TRX3535212,2022,30640,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,3.5,Victoria Butler,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.3
+TRX5886362,2022,18342,Kimia Farma - Apotek,Garut,Jawa Barat,4.0,Claudia Brady,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.6
+TRX1505078,2022,92899,Kimia Farma - Apotek,Dumai,Riau,4.6,Kathy Curry,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.7
+TRX4341979,2022,36671,Kimia Farma - Apotek,Deli Serdang,Sumatera Utara,3.4,Lindsay Montgomery,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.9
+TRX3306294,2022,47178,Kimia Farma - Apotek,Magelang,Jawa Tengah,3.8,Leslie Rodriguez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.2
+TRX8128690,2022,56801,Kimia Farma - Apotek,Subang,Jawa Barat,4.7,David Stewart,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,5.0
+TRX1068124,2022,32325,Kimia Farma - Apotek,Bima,Nusa Tenggara Barat,4.8,Angela Bush,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.4
+TRX8077084,2022,26269,Kimia Farma - Apotek,Garut,Jawa Barat,3.2,Stephen Horne,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.0
+TRX8751857,2022,87281,Kimia Farma - Apotek,Semarang,Jawa Tengah,3.7,William Adams,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.4
+TRX1737079,2022,14495,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,3.7,Kimberly Curry,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.8
+TRX2453268,2022,68556,Kimia Farma - Apotek,Bekasi,Jawa Barat,4.4,Christopher Collins,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.8
+TRX1091201,2022,70739,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.5,Matthew Stewart,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.2
+TRX1244977,2022,96720,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,3.3,Jennifer Garrett,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.09,0.1,6394.24,639.424,4.0
+TRX3373751,2022,86667,Kimia Farma - Apotek,Bekasi,Jawa Barat,4.3,Richard Good,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.6
+TRX3392092,2022,58354,Kimia Farma - Apotek,Bitung,Sulawesi Utara,4.8,Amanda Adkins,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.2
+TRX1216982,2022,56229,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,4.0,Robert Stone,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.8
+TRX3432112,2022,35930,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,3.6,Cameron Vasquez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.1
+TRX9770657,2022,25624,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.6,Hailey Baker,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.3
+TRX2018590,2022,93257,Kimia Farma - Apotek,Kotamobagu,Sulawesi Utara,4.6,Kaitlyn Bell,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.6
+TRX1969173,2022,95971,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,4.5,Kevin Fields,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.2
+TRX9968367,2022,42820,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,4.3,Kenneth Malone,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.1
+TRX6698354,2022,82636,Kimia Farma - Apotek,Palu,Sulawesi Tengah,3.1,Brandon Holmes,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.7
+TRX5197023,2022,25624,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.9,Sara Lewis,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.3
+TRX6166433,2022,19017,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,3.3,Amanda Carrillo,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,5.0
+TRX5078301,2022,74125,Kimia Farma - Apotek,Subang,Jawa Barat,3.8,Michael Weber,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.8
+TRX9635150,2022,98811,Kimia Farma - Apotek,Bontang,Kalimantan Timur,4.4,Michael Ware,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.9
+TRX6343111,2022,61344,Kimia Farma - Apotek,Padang,Sumatera Barat,4.9,Susan Smith,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.7
+TRX3450697,2022,37191,Kimia Farma - Apotek,Bima,Nusa Tenggara Barat,3.1,Steven Mccarty,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,3.9
+TRX6555359,2022,49438,Kimia Farma - Apotek,Ternate,Maluku Utara,3.9,John Long,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.9
+TRX1618738,2022,35044,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.3,Sheila Martinez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.3
+TRX9711766,2022,78115,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.7,Danielle Ramirez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.7
+TRX9505521,2022,50014,Kimia Farma - Apotek,Malang,Jawa Timur,4.0,Michael Smith,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.4
+TRX8743142,2022,50821,Kimia Farma - Apotek,Deli Serdang,Sumatera Utara,3.9,Angela Greene,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.5
+TRX4756973,2022,77512,Kimia Farma - Apotek,Cirebon,Jawa Barat,4.8,Carol Potter,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.5
+TRX7652245,2022,14469,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,4.9,Anna Walters,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,5.0
+TRX4702412,2022,40552,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,3.6,Todd Mcguire,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.6
+TRX7114808,2022,66565,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.2,Dominique Bishop,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,3.9
+TRX9484055,2022,16596,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,3.1,Jennifer Jones,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.1
+TRX7375968,2022,68556,Kimia Farma - Apotek,Bekasi,Jawa Barat,4.0,Janice Lutz,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.8
+TRX4221682,2022,79972,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,3.3,Matthew Young,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.7
+TRX5039649,2022,45642,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.0,Angela Kelly,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.7
+TRX9041918,2022,56918,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.4,Tracie Olson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,3.9
+TRX2433511,2022,40832,Kimia Farma - Apotek,Bekasi,Jawa Barat,4.2,Steve Mcclain,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,5.0
+TRX3524161,2022,34034,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,3.4,Richard Kim,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,3.9
+TRX3258654,2022,30640,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,4.9,George Flores,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.3
+TRX3677018,2022,98818,Kimia Farma - Apotek,Manado,Sulawesi Utara,3.5,Christopher Acosta,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.6
+TRX1597933,2022,90334,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,3.1,Dean Bradley,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.4
+TRX2508847,2022,98345,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,5.0,Benjamin Skinner,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.7
+TRX9312986,2022,46468,Kimia Farma - Apotek,Bima,Nusa Tenggara Barat,4.9,Janet Alexander MD,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.7
+TRX9197593,2022,98560,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,4.1,Linda Jackson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.9
+TRX1544296,2022,27998,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,4.6,Tammy Smith,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.3
+TRX1605073,2022,62628,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,4.4,Christopher Fisher,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.8
+TRX7371703,2022,80412,Kimia Farma - Apotek,Bekasi,Jawa Barat,4.6,Logan Brown,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.8
+TRX4210959,2022,69575,Kimia Farma - Apotek,Garut,Jawa Barat,4.2,Erik Alexander,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.2
+TRX5825324,2022,33488,Kimia Farma - Apotek,Denpasar,Bali,4.0,Kristi Wolf,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.8
+TRX9824667,2022,12056,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4.0,Jonathan Koch,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.5
+TRX2637224,2022,75046,Kimia Farma - Apotek,Denpasar,Bali,3.3,Chloe Calderon DDS,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.4
+TRX7663638,2022,24294,Kimia Farma - Apotek,Payakumbuh,Sumatera Barat,3.1,Cynthia Horn,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.9
+TRX7746366,2022,41131,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,3.5,Charles Williams,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.8
+TRX6530339,2022,29115,Kimia Farma - Apotek,Subang,Jawa Barat,4.1,Elizabeth Howard,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.7
+TRX1959130,2022,29281,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,4.1,Denise Brewer,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.7
+TRX6961960,2022,55386,Kimia Farma - Apotek,Cilacap,Jawa Tengah,5.0,Madison Hoffman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.3
+TRX4829499,2022,61835,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.3,Jeanette Taylor,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.9
+TRX1386094,2022,23145,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,4.5,Caroline Hensley,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.3
+TRX8980875,2022,75530,Kimia Farma - Apotek,Jambi,Jambi,4.1,Sabrina Young,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,3.9
+TRX3439779,2022,90206,Kimia Farma - Apotek,Kotamobagu,Sulawesi Utara,4.7,Andre Phillips,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.7
+TRX6155006,2022,73855,Kimia Farma - Apotek,Pariaman,Sumatera Barat,3.5,John Coleman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.0
+TRX4683605,2022,95261,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,3.9,Lindsey Simmons,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.1
+TRX7529098,2022,73969,Kimia Farma - Apotek,Deli Serdang,Sumatera Utara,4.7,Kayla Barker,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.1
+TRX4357734,2022,70971,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,4.4,Jason Lopez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.8
+TRX4622350,2022,73804,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,3.8,William Rogers,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.3
+TRX1748905,2022,81451,Kimia Farma - Apotek,Probolinggo,Jawa Timur,4.9,Elizabeth Howe,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.1
+TRX2383808,2022,37191,Kimia Farma - Apotek,Bima,Nusa Tenggara Barat,4.7,Maria Miller,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,3.9
+TRX4632343,2022,13953,Kimia Farma - Apotek,Ternate,Maluku Utara,4.3,Todd Davis,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.8
+TRX7142912,2022,24143,Kimia Farma - Apotek,Purwakarta,Jawa Barat,3.8,Heidi Santana,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.0
+TRX6903849,2022,25951,Kimia Farma - Apotek,Pekanbaru,Riau,4.4,Ricky Lawrence,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.5
+TRX5885926,2022,36721,Kimia Farma - Apotek,Garut,Jawa Barat,4.8,Justin Boyd,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.9
+TRX5259685,2022,15235,Kimia Farma - Apotek,Payakumbuh,Sumatera Barat,4.8,Allison Hancock,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.2
+TRX9011345,2022,65187,Kimia Farma - Apotek,Tangerang,Banten,3.7,Yvonne Schwartz,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.5
+TRX4979369,2022,25432,Kimia Farma - Apotek,Cirebon,Jawa Barat,4.3,Anna Day,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.2
+TRX1630782,2022,49606,Kimia Farma - Apotek,Palu,Sulawesi Tengah,4.1,Emily Ramirez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.6
+TRX3064181,2022,28422,Kimia Farma - Apotek,Pariaman,Sumatera Barat,3.7,Jordan Combs,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,3.9
+TRX3276263,2022,70985,Kimia Farma - Apotek,Manado,Sulawesi Utara,3.1,Susan Bartlett,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.3
+TRX1989471,2022,72440,Kimia Farma - Apotek,Banda Aceh,Aceh,4.7,Juan Collins,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.3
+TRX6092871,2022,80802,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.0,Kenneth Bryant,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.9
+TRX4253010,2022,63792,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,3.3,Joe Morales,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.1
+TRX4032265,2022,74753,Kimia Farma - Apotek,Magelang,Jawa Tengah,4.4,Douglas Davis,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.6
+TRX8943581,2022,47342,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,3.1,Clinton Murray,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.3
+TRX2379628,2022,52020,Kimia Farma - Apotek,Banda Aceh,Aceh,3.9,Matthew Collins,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.4
+TRX9992022,2022,95541,Kimia Farma - Apotek,Jambi,Jambi,3.0,Jay Young,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.8
+TRX3088952,2022,42291,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,3.9,Michael Green,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.3
+TRX3480991,2022,40222,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,4.4,Dean Williams,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.1
+TRX6841340,2022,14773,Kimia Farma - Apotek,Bekasi,Jawa Barat,4.1,Jay Christensen,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.7
+TRX3891104,2022,49584,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,3.1,Michael Stone,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.6
+TRX6490871,2022,41343,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.6,Anna Wade,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.0
+TRX3316554,2022,37946,Kimia Farma - Apotek,Cirebon,Jawa Barat,3.0,Gregory Warner,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.1
+TRX7851311,2022,80343,Kimia Farma - Apotek,Jakarta,DKI Jakarta,4.0,Kayla Aguilar,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.5
+TRX2063269,2022,36256,Kimia Farma - Apotek,Sukabumi,Jawa Barat,3.8,Alyssa Kelley,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.1
+TRX3330842,2022,37012,Kimia Farma - Apotek,Bandung,Jawa Barat,3.0,Tiffany Turner,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.8
+TRX5097810,2022,73569,Kimia Farma - Apotek,Madiun,Jawa Timur,4.0,Dr. Jessica Barnes MD,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.4
+TRX5844854,2022,36953,Kimia Farma - Apotek,Cilacap,Jawa Tengah,4.4,Annette Robinson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,5.0
+TRX6263333,2022,84443,Kimia Farma - Apotek,Tebing Tinggi,Sumatera Utara,4.7,Laura Davies,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.2
+TRX2752042,2022,21583,Kimia Farma - Apotek,Ciamis,Jawa Barat,5.0,Renee Lopez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.9
+TRX1107388,2022,30291,Kimia Farma - Apotek,Manado,Sulawesi Utara,3.3,Brandi Martin,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.9
+TRX7865898,2022,81451,Kimia Farma - Apotek,Probolinggo,Jawa Timur,4.9,Bailey Sutton,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.1
+TRX2751823,2022,55847,Kimia Farma - Apotek,Subang,Jawa Barat,3.5,James Davis,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.3
+TRX4821944,2022,80557,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4.6,Stephanie Hawkins,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.0
+TRX4664983,2022,56801,Kimia Farma - Apotek,Subang,Jawa Barat,3.2,Rachel Sandoval,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,5.0
+TRX7556055,2022,21410,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,4.4,Christine Thomas,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.2
+TRX5917010,2022,63103,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,4.7,Michael Jones,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,5.0
+TRX4598415,2022,45422,Kimia Farma - Apotek,Ternate,Maluku Utara,4.5,Holly Green,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,3.9
+TRX3764301,2022,96172,Kimia Farma - Apotek,Tangerang,Banten,3.9,James Alvarez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,3.9
+TRX8790565,2022,64238,Kimia Farma - Apotek,Jakarta,DKI Jakarta,4.3,Anthony Kelly,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.0
+TRX7000491,2022,95134,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,4.9,Anthony Jones,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.2
+TRX7350370,2022,59260,Kimia Farma - Apotek,Ambon,Maluku,3.1,Juan Jones,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.1
+TRX8448100,2022,28123,Kimia Farma - Apotek,Deli Serdang,Sumatera Utara,4.7,Megan Clarke,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.9
+TRX2111296,2022,65902,Kimia Farma - Apotek,Balikpapan,Kalimantan Timur,3.9,Michael Hogan,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.2
+TRX8939371,2022,40552,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,3.2,Melissa Crawford,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.6
+TRX2904256,2022,47175,Kimia Farma - Apotek,Bekasi,Jawa Barat,4.4,Dean Bennett,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.07,0.1,6395.5199999999995,639.552,4.9
+TRX9982426,2022,29281,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,3.9,Amanda Higgins,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.7
+TRX1045474,2022,68313,Kimia Farma - Apotek,Palembang,Sumatera Selatan,3.0,Tracy Bryant,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.8
+TRX6920492,2022,48130,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.5,Samantha Aguilar,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.7
+TRX2089238,2022,26269,Kimia Farma - Apotek,Garut,Jawa Barat,3.7,Jimmy Francis,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.0
+TRX2942411,2022,60459,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,3.4,Tanner Cruz,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.0
+TRX8284302,2022,15370,Kimia Farma - Apotek,Palembang,Sumatera Selatan,4.8,Cheryl Simpson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.1
+TRX5414245,2022,75976,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,4.8,Stacey Alvarez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.0
+TRX6046011,2022,26081,Kimia Farma - Apotek,Langsa,Aceh,4.0,Jessica Becker,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.2
+TRX6235930,2022,90913,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.5,Diane Hansen,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.8
+TRX7354300,2022,28460,Kimia Farma - Apotek,Jambi,Jambi,4.3,Dr. Sheila Perez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.2
+TRX3201980,2022,27998,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,4.1,Sergio Maldonado,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.3
+TRX6411296,2022,20261,Kimia Farma - Apotek,Garut,Jawa Barat,3.2,Kevin Goodman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.3
+TRX2093938,2022,11400,Kimia Farma - Apotek,Ambon,Maluku,3.1,Christopher Soto,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.1
+TRX1378847,2022,79725,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,4.5,Andrea Aguilar,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.8
+TRX4116790,2022,32332,Kimia Farma - Apotek,Malang,Jawa Timur,3.9,Ryan Thompson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.1
+TRX9371319,2022,18342,Kimia Farma - Apotek,Garut,Jawa Barat,4.9,Katherine Fisher,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.6
+TRX1125739,2022,26671,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,4.3,Shane Ramirez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.1
+TRX4869833,2022,42820,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,3.7,Kimberly Baker,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.1
+TRX2015476,2022,90382,Kimia Farma - Apotek,Kuningan,Jawa Barat,4.5,Sandra Delgado,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.7
+TRX2690287,2022,87281,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.5,Scott Anderson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.4
+TRX9534973,2022,57196,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,3.4,John Casey,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.8
+TRX1487735,2022,12406,Kimia Farma - Apotek,Bitung,Sulawesi Utara,3.1,James Buck,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.2
+TRX6765968,2022,34829,Kimia Farma - Apotek,Lubuklinggau,Sumatera Selatan,4.3,Katelyn Smith,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.5
+TRX6891156,2022,95261,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,3.8,Sabrina Mullins,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.1
+TRX3585339,2022,76154,Kimia Farma - Apotek,Semarang,Jawa Tengah,3.6,Sean Mason,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.6
+TRX6396380,2022,76154,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.0,Curtis Armstrong,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.6
+TRX7220334,2022,73436,Kimia Farma - Apotek,Jambi,Jambi,3.9,Jennifer Hanna,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.4
+TRX1438269,2022,68034,Kimia Farma - Apotek,Ambon,Maluku,4.0,Amy Garcia,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.1
+TRX6135703,2022,50780,Kimia Farma - Apotek,Bitung,Sulawesi Utara,5.0,Janet Weaver,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.8
+TRX5238880,2022,90277,Kimia Farma - Apotek,Sorong,Papua Barat,4.9,Christine Miller,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.3
+TRX6201402,2022,29281,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,3.3,Jon Kennedy,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.7
+TRX4126695,2022,82564,Kimia Farma - Apotek,Palembang,Sumatera Selatan,4.3,Norma Velasquez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.2
+TRX9295999,2022,25951,Kimia Farma - Apotek,Pekanbaru,Riau,4.1,Susan Lopez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.5
+TRX8225158,2022,36256,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.6,Sheila Thompson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.1
+TRX1253567,2022,63214,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,3.1,Debra Johnson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.5
+TRX7429957,2022,14469,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,3.1,Robert Hunter,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,5.0
+TRX3610850,2022,36953,Kimia Farma - Apotek,Cilacap,Jawa Tengah,3.9,Charles Morton,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,5.0
+TRX9261184,2022,66717,Kimia Farma - Apotek,Subang,Jawa Barat,3.3,Nicole Sanchez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.2
+TRX5168308,2022,99735,Kimia Farma - Apotek,Banda Aceh,Aceh,4.4,Jennifer Blair,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.1
+TRX7999203,2022,80387,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.2,Matthew Rivera,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.9
+TRX4857306,2022,95120,Kimia Farma - Apotek,Garut,Jawa Barat,4.8,Randall Taylor,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.6
+TRX8961591,2022,59260,Kimia Farma - Apotek,Ambon,Maluku,4.6,Brittany Smith,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.1
+TRX6896911,2022,77512,Kimia Farma - Apotek,Cirebon,Jawa Barat,4.9,Judy Hartman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.5
+TRX1369910,2022,26269,Kimia Farma - Apotek,Garut,Jawa Barat,4.7,Julie Krueger,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.0
+TRX8004690,2022,68894,Kimia Farma - Apotek,Madiun,Jawa Timur,3.3,Joshua West,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.2
+TRX6361712,2022,16596,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,3.2,Jeremiah Contreras,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.1
+TRX7143572,2022,41183,Kimia Farma - Apotek,Gorontalo,Gorontalo,3.1,Linda Andrade,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.8
+TRX2857787,2022,96558,Kimia Farma - Apotek,Denpasar,Bali,4.2,Darlene Huynh,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.7
+TRX9463801,2022,40552,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,4.2,Christopher Lee,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.6
+TRX1191509,2022,56478,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.3,Patricia Gallagher,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.0
+TRX1196695,2022,98560,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,3.3,Timothy Coleman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.9
+TRX2639688,2022,42273,Kimia Farma - Apotek,Ternate,Maluku Utara,4.1,Rebecca Howard,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.2
+TRX6370047,2022,98241,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.6,Taylor Oliver,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.5
+TRX5453240,2022,82336,Kimia Farma - Apotek,Sibolga,Sumatera Utara,3.4,Tiffany Garcia,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.2
+TRX8917552,2022,94518,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,3.3,Sarah Perez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.6
+TRX3540165,2022,22086,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,4.7,Mary Kim,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.2
+TRX1037736,2022,48667,Kimia Farma - Apotek,Cikampek,Jawa Barat,3.4,Dean Williams,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.2
+TRX4733948,2022,82894,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,3.9,Christopher Russell,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.5
+TRX9651258,2022,17863,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.8,Jason James,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.7
+TRX7680518,2022,73814,Kimia Farma - Apotek,Purwakarta,Jawa Barat,3.8,Holly Cordova,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.7
+TRX5250459,2022,59955,Kimia Farma - Apotek,Madiun,Jawa Timur,4.4,Mike Long,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.7
+TRX9881390,2022,40832,Kimia Farma - Apotek,Bekasi,Jawa Barat,4.7,Hannah Hill,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,5.0
+TRX9185607,2022,33406,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,4.5,Susan Murillo,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.7
+TRX6761306,2022,58219,Kimia Farma - Apotek,Magelang,Jawa Tengah,3.8,Mr. Richard Dickerson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.3
+TRX9597861,2022,92582,Kimia Farma - Apotek,Sibolga,Sumatera Utara,3.7,Nicholas Garcia,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.4
+TRX9781808,2022,59559,Kimia Farma - Apotek,Yogyakarta,DI Yogyakarta,4.7,Daniel Lee,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.5
+TRX8269478,2022,21930,Kimia Farma - Apotek,Solok,Sumatera Barat,3.7,David Lynch,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.9
+TRX4968490,2022,76170,Kimia Farma - Apotek,Tangerang,Banten,3.6,Wendy Gonzalez MD,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.3
+TRX4301558,2022,37012,Kimia Farma - Apotek,Bandung,Jawa Barat,3.2,Zachary Young,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.8
+TRX5617169,2022,92100,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,3.2,Sara Lewis,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.2
+TRX7733706,2022,86446,Kimia Farma - Apotek,Bitung,Sulawesi Utara,4.3,Justin Cox,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.1
+TRX6853275,2022,59220,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,4.4,Michael Daniels,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.2
+TRX9160120,2022,60936,Kimia Farma - Apotek,Subang,Jawa Barat,3.1,Christopher Contreras,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.8
+TRX7008493,2022,47342,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,3.5,Jenna Evans,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.3
+TRX5250047,2022,92582,Kimia Farma - Apotek,Sibolga,Sumatera Utara,4.3,Susan Wiggins,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.4
+TRX8882044,2022,54372,Kimia Farma - Apotek,Padang,Sumatera Barat,3.3,David Guerrero,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.2
+TRX7630277,2022,80673,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,4.7,Jessica Freeman,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.6
+TRX1462015,2022,21909,Kimia Farma - Apotek,Lubuklinggau,Sumatera Selatan,4.4,Samuel Dunlap,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.9
+TRX9237332,2022,63103,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,3.6,Joseph Ward,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,5.0
+TRX5775361,2022,33006,Kimia Farma - Apotek,Karawang,Jawa Barat,4.5,Karen Thompson DDS,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.7
+TRX6385492,2022,82894,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,4.1,Ashley Nelson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.5
+TRX4219099,2022,77512,Kimia Farma - Apotek,Cirebon,Jawa Barat,3.5,Jeffrey Salas,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.5
+TRX1979899,2022,63863,Kimia Farma - Apotek,Subang,Jawa Barat,3.2,John Paul,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.7
+TRX6778917,2022,88832,Kimia Farma - Apotek,Jakarta,DKI Jakarta,3.6,Christopher Heath,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.2
+TRX2141701,2022,25624,Kimia Farma - Apotek,Semarang,Jawa Tengah,3.3,Cindy Garcia,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.3
+TRX2132223,2022,63103,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,3.8,Jacob Orr,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,5.0
+TRX4069329,2022,39162,Kimia Farma - Apotek,Kotamobagu,Sulawesi Utara,4.1,Brenda Ellis,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.9
+TRX2089541,2022,35930,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.1,Curtis Torres,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.1
+TRX9283086,2022,79725,Kimia Farma - Apotek,Pematangsiantar,Sumatera Utara,4.4,Diane Mann,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.8
+TRX1965934,2022,20598,Kimia Farma - Apotek,Bitung,Sulawesi Utara,3.1,John Cox,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.4
+TRX2268564,2022,21410,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,3.3,Misty Hansen,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.2
+TRX8550146,2022,98560,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,4.8,Zachary Klein,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.9
+TRX9832281,2022,45962,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.2,Brian Mayo,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.4
+TRX4093453,2022,99735,Kimia Farma - Apotek,Banda Aceh,Aceh,4.2,Sarah Leon,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.1
+TRX4679753,2022,65823,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,4.7,Grace Love,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.05,0.1,6396.8,639.68000000000006,4.9
+TRX1371373,2022,65902,Kimia Farma - Apotek,Balikpapan,Kalimantan Timur,3.9,Kathleen Lloyd,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.2
+TRX6330750,2022,17138,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,3.5,Jacob Hernandez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,3.9
+TRX5085559,2022,47342,Kimia Farma - Apotek,Padang Sidempuan,Sumatera Utara,3.6,Whitney Jones,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.3
+TRX9011578,2022,35746,Kimia Farma - Apotek,Surabaya,Jawa Timur,4.5,Renee Richards,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.5
+TRX6453674,2022,60888,Kimia Farma - Apotek,Bekasi,Jawa Barat,3.4,Lisa Goodwin,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.1
+TRX9226085,2022,85216,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.2,Jonathan Bailey,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.0
+TRX9300149,2022,91201,Kimia Farma - Apotek,Indramayu,Jawa Barat,4.6,Samuel Johnson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.7
+TRX8546404,2022,14773,Kimia Farma - Apotek,Bekasi,Jawa Barat,3.9,Cynthia Nolan,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.7
+TRX1234945,2022,49403,Kimia Farma - Apotek,Kuningan,Jawa Barat,3.8,Holly Savage,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,3.9
+TRX3529360,2022,60459,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,3.8,Julie Long,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.0
+TRX4390784,2022,84935,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,3.9,Teresa Galvan,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.2
+TRX6544452,2022,90214,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,4.4,Bradley Hill,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.2
+TRX8638543,2022,73804,Kimia Farma - Apotek,Kendari,Sulawesi Tenggara,3.6,Wyatt Mendoza,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.3
+TRX7609655,2022,41081,Kimia Farma - Apotek,Pekanbaru,Riau,4.9,Jared Boyd,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.2
+TRX2532549,2022,32332,Kimia Farma - Apotek,Malang,Jawa Timur,4.1,Theodore Palmer,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.1
+TRX3385971,2022,18786,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,4.9,Lisa Brown,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.7
+TRX8559020,2022,75720,Kimia Farma - Apotek,Sukabumi,Jawa Barat,3.0,Molly Flores MD,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.5
+TRX8236954,2022,35044,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.5,Andrew Butler,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.3
+TRX9534017,2022,56801,Kimia Farma - Apotek,Subang,Jawa Barat,4.1,Cindy Martin,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,5.0
+TRX1749837,2022,46468,Kimia Farma - Apotek,Bima,Nusa Tenggara Barat,4.9,Gwendolyn Hudson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.7
+TRX8349479,2022,82428,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,4.9,Lisa Hall,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,3.9
+TRX7867555,2022,98676,Kimia Farma - Apotek,Malang,Jawa Timur,3.0,Vanessa Thomas,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.4
+TRX1039658,2022,49864,Kimia Farma - Apotek,Banda Aceh,Aceh,4.0,Samantha Duran,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.3
+TRX2688196,2022,46468,Kimia Farma - Apotek,Bima,Nusa Tenggara Barat,4.9,Kimberly Brown,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.7
+TRX3588687,2022,21171,Kimia Farma - Apotek,Indramayu,Jawa Barat,4.2,Joseph Allen,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.0
+TRX4464969,2022,18786,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,3.5,Matthew Mccormick,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.7
+TRX3234345,2022,21659,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,3.5,Joshua James,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.0
+TRX6452361,2022,31737,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,3.3,Patricia Hammond,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.2
+TRX9225559,2022,35572,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.2,Paul Wilson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.6
+TRX8743308,2022,35019,Kimia Farma - Apotek,Banjarmasin,Kalimantan Selatan,4.7,Daniel Owens,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,5.0
+TRX4293581,2022,69841,Kimia Farma - Apotek,Lhokseumawe,Aceh,4.3,James Thomas,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.9
+TRX4766378,2022,26081,Kimia Farma - Apotek,Langsa,Aceh,4.1,Brittany Rosales,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.2
+TRX4776946,2022,89154,Kimia Farma - Apotek,Palembang,Sumatera Selatan,4.2,Kathryn Garcia,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.5
+TRX8145168,2022,59275,Kimia Farma - Apotek,Garut,Jawa Barat,4.9,Sierra Huang,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.6
+TRX4641006,2022,79455,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,3.6,Mary Nolan,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.8
+TRX4143784,2022,39578,Kimia Farma - Apotek,Ambon,Maluku,4.1,Kyle Carr,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.7
+TRX7883871,2022,34490,Kimia Farma - Apotek,Tarakan,Kalimantan Utara,3.7,Katherine Morgan,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.3
+TRX6429214,2022,63942,Kimia Farma - Apotek,Bandung,Jawa Barat,3.6,Melissa Smith,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,5.0
+TRX8700558,2022,95541,Kimia Farma - Apotek,Jambi,Jambi,3.0,Dalton Mcdonald,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.8
+TRX2992083,2022,93878,Kimia Farma - Apotek,Semarang,Jawa Tengah,3.2,Doris Griffin,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.5
+TRX7966773,2022,17437,Kimia Farma - Apotek,Karawang,Jawa Barat,3.7,Ethan Gonzalez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.2
+TRX8673067,2022,30282,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.2,Karen Lee,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.4
+TRX3392940,2022,61916,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,3.3,John Bennett,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.1
+TRX5517476,2022,54078,Kimia Farma - Apotek,Purwokerto,Jawa Tengah,3.8,Kathleen Payne,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.7
+TRX7358637,2022,92876,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,4.1,Connie Chung,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.1
+TRX6772873,2022,84922,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,3.2,Jodi Mccarthy,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.1
+TRX8434091,2022,64080,Kimia Farma - Apotek,Batam,Kepulauan Riau,4.2,Mr. Clinton Watkins,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.1
+TRX3801446,2022,62913,Kimia Farma - Apotek,Palembang,Sumatera Selatan,4.7,Crystal Hunter,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.5
+TRX8618951,2022,61880,Kimia Farma - Apotek,Sibolga,Sumatera Utara,3.9,James Moore,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.0
+TRX8608290,2022,25390,Kimia Farma - Apotek,Cikampek,Jawa Barat,4.6,Katelyn Torres,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.9
+TRX2392404,2022,95261,Kimia Farma - Apotek,Palangkaraya,Kalimantan Tengah,3.6,Crystal Johnson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.1
+TRX7836939,2022,37734,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.7,Dr. Grace Chambers,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.6
+TRX7844794,2022,58928,Kimia Farma - Apotek,Solok,Sumatera Barat,3.8,Rachel Kennedy,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.0
+TRX1241203,2022,34844,Kimia Farma - Apotek,Lubuklinggau,Sumatera Selatan,3.2,Haley Wiggins,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.1
+TRX5116277,2022,75503,Kimia Farma - Apotek,Tomohon,Sulawesi Utara,3.2,Andrea Lambert,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.7
+TRX1831817,2022,48997,Kimia Farma - Apotek,Padang,Sumatera Barat,3.5,Carl Lynch,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.2
+TRX6782150,2022,13953,Kimia Farma - Apotek,Ternate,Maluku Utara,4.9,Steven Oneill,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.8
+TRX3458109,2022,82240,Kimia Farma - Apotek,Tasikmalaya,Jawa Barat,4.7,Timothy Salinas,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.2
+TRX9845965,2022,86446,Kimia Farma - Apotek,Bitung,Sulawesi Utara,4.0,Courtney Rivera,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.1
+TRX2002049,2022,13953,Kimia Farma - Apotek,Ternate,Maluku Utara,4.8,Dorothy Fuller,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.8
+TRX6260003,2022,35955,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,4.9,Gerald Wilson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.2
+TRX3406313,2022,68942,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.3,Cynthia Clay,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.8
+TRX8658829,2022,34829,Kimia Farma - Apotek,Lubuklinggau,Sumatera Selatan,4.1,Connor Vasquez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.5
+TRX5190303,2022,68981,Kimia Farma - Apotek,Samarinda,Kalimantan Timur,3.6,Lori Daniel,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.5
+TRX2505491,2022,21840,Kimia Farma - Apotek,Pariaman,Sumatera Barat,4.8,Eric Reyes,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.9
+TRX3293329,2022,50014,Kimia Farma - Apotek,Malang,Jawa Timur,3.8,Dr. Derrick Wilson Jr.,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.4
+TRX1290796,2022,41451,Kimia Farma - Apotek,Sukabumi,Jawa Barat,4.6,Frank Hurley,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.6
+TRX3550554,2022,16339,Kimia Farma - Apotek,Subang,Jawa Barat,3.9,William Sanchez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.7
+TRX2029934,2022,98443,Kimia Farma - Apotek,Banda Aceh,Aceh,3.8,Jessica Gross,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.5
+TRX8468101,2022,65187,Kimia Farma - Apotek,Tangerang,Banten,4.6,Tracy Tran,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.5
+TRX2067871,2022,73925,Kimia Farma - Apotek,Gorontalo,Gorontalo,4.6,Heidi Bell,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.6
+TRX2249513,2022,82336,Kimia Farma - Apotek,Sibolga,Sumatera Utara,3.7,Alexis Hawkins,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.2
+TRX5067692,2022,28053,Kimia Farma - Apotek,Semarang,Jawa Tengah,4.1,Dana Mack,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.1
+TRX3478004,2022,27076,Kimia Farma - Apotek,Tanjungpinang,Kepulauan Riau,4.4,Kevin Lopez,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.3
+TRX6703746,2022,89840,Kimia Farma - Apotek,Makassar,Sulawesi Selatan,4.9,Michael Lin,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.9
+TRX7199686,2022,35955,Kimia Farma - Apotek,Mataram,Nusa Tenggara Barat,4.7,Justin Fuentes,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.2
+TRX9806096,2022,30640,Kimia Farma - Apotek,Pangkalpinang,Bangka Belitung,4.8,Robert Lin,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.3
+TRX5288980,2022,24963,Kimia Farma - Apotek,Purwakarta,Jawa Barat,4.0,Darrell Moss,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.2
+TRX7736990,2022,38172,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,3.3,Richard Johnson MD,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,5.0
+TRX8759899,2022,48880,Kimia Farma - Apotek,Subang,Jawa Barat,4.9,Amy Davidson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.8
+TRX8858355,2022,29115,Kimia Farma - Apotek,Subang,Jawa Barat,3.4,Scott Carter,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.7
+TRX4397077,2022,65560,Kimia Farma - Apotek,Balikpapan,Kalimantan Timur,4.9,Patrick Rogers,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.7
+TRX3839818,2022,27583,Kimia Farma - Apotek,Denpasar,Bali,3.6,Denise Bennett,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,5.0
+TRX9864995,2022,12991,Kimia Farma - Apotek,Garut,Jawa Barat,4.3,Gary Frazier,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,3.9
+TRX8887090,2022,22280,Kimia Farma - Apotek,Batam,Kepulauan Riau,3.4,Natalie Knight,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.5
+TRX8127759,2022,16596,Kimia Farma - Apotek,Pontianak,Kalimantan Barat,3.9,Bradley Jackson,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.1
+TRX7089022,2022,75553,Kimia Farma - Apotek,Ciamis,Jawa Barat,4.3,Michael Lee,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.3
+TRX4332710,2022,13831,Kimia Farma - Apotek,Tebing Tinggi,Sumatera Utara,3.1,Jaclyn Barnes,KF132,"Psycholeptics drugs, Hypnotics and sedatives drugs",6400,0.14,0.1,6391.04,639.104,4.1
